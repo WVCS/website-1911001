@@ -1,3 +1,11 @@
-body {
+h1 {
+  font-size:80px;
+  color: #270722;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    font-family: Garamond, serif;
+}
 
+body {
+  background-color: #C2C6A7;
 }
