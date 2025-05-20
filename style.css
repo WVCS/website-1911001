@@ -10,3 +10,11 @@ h1 {
 body {
   background-color: #C2C6A7;
 }
+
+h1:hover {
+  letter-spacing: 10px;
+}
+img:hover {
+  width: 900px;
+  height: 200px;
+}
