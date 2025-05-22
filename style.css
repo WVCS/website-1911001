@@ -18,3 +18,26 @@ img:hover {
   width: 900px;
   height: 200px;
 }
+
+nav {
+  list-style-type: none;
+  width:100%;
+  background-color: #F3E6A7;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li a {
+  color: #270722;
+  text-decoration: none;
+  display: block;
+  float: left;
+  padding: 20px 50px;
+  
+  font-family: Garamond, serif;
+}
+
+li a:hover {
+  background-color: #F6DCA2;
+}
